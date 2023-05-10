@@ -1,2 +1,2 @@
 # python-
-En este repositorio tenéis diversos ejercicios que he realizado en python. 
+In this repository you have several exercises that I have done in python. 
